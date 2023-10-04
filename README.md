@@ -12,9 +12,9 @@ Regarding the name, Megatron invokes a sense of strength, power, and reliability
 
 In summary, Megatron is the backbone of our site builder web app, ensuring that our users' websites are seamlessly transformed into production-ready sites. By simplifying and automating the backend processes, Megatron empowers users to focus on their creative freedom and build stunning websites while leaving the technical complexities to this powerful application.
 
-- [] create new application
+- [ ] create new application
     
-- [] update application metadata
+- [ ] update application metadata
     
 - [ ] add new page
     
