@@ -11,3 +11,43 @@ Not only does Megatron handle the technical heavy lifting, but it also ensures t
 Regarding the name, Megatron invokes a sense of strength, power, and reliability — qualities that align perfectly with the purpose of this application. The name suggests the transformative capabilities of the backend, where websites are converted into robust and cutting-edge productions. It also signifies the efficiency and effectiveness of the software in handling even the most demanding tasks.
 
 In summary, Megatron is the backbone of our site builder web app, ensuring that our users' websites are seamlessly transformed into production-ready sites. By simplifying and automating the backend processes, Megatron empowers users to focus on their creative freedom and build stunning websites while leaving the technical complexities to this powerful application.
+
+- [] create new application
+    
+- [] update application metadata
+    
+- [ ] add new page
+    
+- [ ] remove page
+    
+- [ ] update page
+    
+- [ ] add new component
+    
+- [ ] remove component
+    
+- [ ] build
+    
+- [ ] get components list
+    
+- [ ] get pages list
+    
+- [ ] get application metadata
+    
+- [ ] remove application
+    
+- [ ] get users list
+    
+- [ ] update user
+    
+    - [ ] username
+    - [ ] first name
+    - [ ] last name
+    - [ ] apps
+        - [ ] create app
+        - [ ] read app
+        - [ ] update app
+        - [ ] delete app
+- [ ] delete user
+    
+- [ ] get applications of a specific user
